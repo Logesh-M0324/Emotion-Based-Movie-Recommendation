@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-opencv-python
+opencv-python-headless
 textblob
-deepface
+deepface==0.0.78
 scikit-learn
