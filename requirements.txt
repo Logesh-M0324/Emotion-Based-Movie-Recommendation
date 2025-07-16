@@ -3,5 +3,5 @@ pandas
 numpy
 opencv-python-headless
 textblob
-deepface==0.0.78
 scikit-learn
+deepface==0.0.78
